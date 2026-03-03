@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "my friends name is AMAR"
+echo "He is very Dramatic"
+pwd
